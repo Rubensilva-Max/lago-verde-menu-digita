@@ -1,0 +1,21 @@
+LAGO VERDE — PESQUE E PAGUE
+Site estático pronto para GitHub Pages ou Vercel.
+
+ARQUIVOS
+- index.html: estrutura e conteúdo
+- style.css: visual responsivo
+- script.js: animação por scroll, filtros e seleção para WhatsApp
+- assets/peixe-scroll.mp4: vídeo fornecido pelo cliente
+
+PUBLICAÇÃO PELO ANDROID
+1. Extraia o ZIP no celular.
+2. Crie um repositório no GitHub.
+3. Envie o conteúdo extraído para a raiz do repositório (index.html, style.css, script.js e pasta assets).
+4. No Vercel, importe o repositório. Framework Preset: Other; Build Command: vazio; Output Directory: . (ou vazio).
+5. Clique em Deploy.
+
+OBSERVAÇÕES
+- O vídeo original foi mantido. A reprodução é sincronizada ao scroll da primeira seção.
+- O menu transcreve os itens legíveis das imagens enviadas.
+- As imagens do cardápio não mostram valores preenchidos; por isso o site informa “consulte” e não inventa preços.
+- Endereço e telefone foram transcritos da capa do cardápio.
